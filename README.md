@@ -125,7 +125,7 @@ Update Last Contacted Date:
 ### Reports
 When you run the `reports.py` script, it generates a report showing the number of customers per company and saves it as an image `customers_per_company.png` in the `reports/` directory.
 
-![Customers per Company](reports/customers_per_company.png)
+![Customers per Company](https://raw.githubusercontent.com/Nick9695/CRM-Software-Implementation/main/customers_per_company.png)
 
 ## Conclusion
 
